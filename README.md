@@ -1,2 +1,2 @@
 # jokerinfo
-scripts
+scripts ctf
